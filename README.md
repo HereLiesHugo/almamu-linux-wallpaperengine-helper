@@ -10,7 +10,6 @@ A user-friendly interactive configuration tool for [Almamu's Linux Wallpaper Eng
 - **Performance Optimization**: Configure FPS, fullscreen pause behavior
 - **Audio Control**: Volume management, auto-mute, and audio processing options
 - **Interaction Settings**: Mouse and parallax effect controls
-- **Screenshot Capabilities**: Capture wallpaper screenshots with customizable delays
 - **Command Export**: Save generated commands to `wallpaper-command.txt` for reuse
 
 ## Requirements
