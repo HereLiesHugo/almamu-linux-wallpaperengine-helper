@@ -14,7 +14,7 @@ A user-friendly interactive configuration tool for [Almamu's Linux Wallpaper Eng
 
 ## Requirements
 
-- Linux system with X11 display server
+- Linux system with X11 or wayland.
 - `linux-wallpaperengine` executable in the same directory
 - Python 3.6 or higher
 - `xrandr` utility for display detection
